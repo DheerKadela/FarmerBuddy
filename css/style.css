@@ -1,0 +1,194 @@
+#rought
+{
+	background-color: black;
+	height: 500px;
+	width: 800px;
+	float: ;
+	color: red;
+}
+
+#rought div
+{
+	float: left;
+	background-color: white;
+	color: black;
+	height: 400px;
+	width: 400px;
+	
+}
+#rought h1
+
+{
+	margin-right: 400px;
+	color: red;
+}
+#rought h4
+{
+	margin-top: 35px;
+	margin-right: 18px;
+	color: yellow;
+}
+#rought h2
+{
+	margin-top: 0px;
+	color: red;
+	float: left;
+}
+#rought h3
+{
+	margin-right: 97px;
+	color: yellow;
+	margin-top: 2px;
+}
+#profile
+{
+	float: right;
+	height: 400px;
+	width: 300px;
+	background-color: white;
+    margin-bottom: 500px;
+}
+body
+{
+	background-color: bisque;
+}
+
+.back{
+	
+}
+
+.header
+{
+	background-color: #0D2A39;
+	color: firebrick;
+	float: right;
+	height: 60px;
+	width: 1300px;
+}
+.nevigation
+{
+	background-color: #D5BEBE;
+	float: right;
+	height: 40px;
+	width: 1300px;
+}
+#menu th
+{
+	margin-top: 5px;
+	padding: 6px;
+	margin: 10px;
+	font-size: 25px;
+	
+}
+.in
+{
+	font-size: 17px
+}
+#se
+{
+	font-size: 18px
+}
+#menu a
+{
+	text-decoration: none;
+	color: navy;
+    
+}
+#menu a:hover
+{
+	text-decoration: underline;
+	color: black;
+	font-size: 27px;
+}
+.content
+{
+	background-color: grey;
+	height: 600px;
+	width: 1300px;
+	float: right;
+}
+#left
+{
+	float: left;
+	background-color: black;
+	height: 600px;
+	width: 200px;
+}
+
+#tittle
+{
+	color: balck;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 24px;
+	background-color: chartreuse;
+    float: right;
+	width: 200px;
+
+}
+
+#cats a
+{
+ color: white;
+margin-left: 0px;
+	font-size: 18px;
+	text-decoration: none;
+	
+	padding: 10px;
+}
+
+#cats a:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 18px;
+	color: orange;
+}
+
+#right
+{
+	background-color: aliceblue;
+	height: auto;
+	width: 1100px;
+	float: right;
+	margin-top: 10px;
+	
+}
+.footer
+{
+	background-color: darkgrey;
+	height: 30px;
+	width: 1300px;
+	margin-top: 0px;
+	float: right;
+	
+	font-size: 18px;
+}
+
+#prodalign
+{
+	float: left;
+	
+}
+#prodalign a
+{
+	margin-top: 181px;
+	padding: 5px;
+}
+#prodalign img
+{
+	border: #000000 solid 2px;
+}
+#prodalign h3
+{
+	margin-left: 100px;
+}
+
+#prodalign button
+{
+}
+#UF
+{
+background-color: black;
+font-size: 18px;
+}
+
